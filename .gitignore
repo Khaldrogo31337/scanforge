@@ -5,8 +5,6 @@ build/
 dist/
 wheels/
 *.egg-info
-./output/
+/output/
 # Virtual environments
 .venv
-.gitignore
-.python-version
