@@ -6,5 +6,7 @@ dist/
 wheels/
 *.egg-info
 /output/
+/input/test_batch.csv
+/input/test_batch.xlsx
 # Virtual environments
 .venv
